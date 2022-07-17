@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Seaborn, Matplotlib, Sql, Machine learning, Deep Learning**
 
-- 🔭 I’m App developmentcurrently working on : **App development**
+- 🔭 I’m currently working on : **App development**
 
 - 📫 E-mail me : **mandeepchaudhary2003@gmail.com**
 
