@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mandeep Choudhary</h1>
-<h3 align="center">Student At Bennett University| Data Science Enthusiast | Aspiring App Developer | Content Creator | Graphic Designer</h3>
+<h3 align="center">Student At Bennett University | Data Science Enthusiast | Graphic Designer</h3>
 
 - 🔭 I’m currently studying in : **Bennett University**
 
 - 🌱 I’m currently learning **Seaborn, Matplotlib, Sql, Machine learning, Deep Learning**
 
-- 🔭 I’m currently working on : **App development**
+- 🔭 I’m currently working on : **Data Science**
 
-- 📫 E-mail me : **mandeepchaudhary2003@gmail.com**
+- 📫 E-mail me : **mandeepchoudhary0408@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAE1cooFyZo/SDCZuEUPRG66ki5GpQ3pNA/view?website#2](https://www.canva.com/design/DAE1cooFyZo/SDCZuEUPRG66ki5GpQ3pNA/view?website#2)
 
